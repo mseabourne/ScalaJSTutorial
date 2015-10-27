@@ -1,0 +1,21 @@
+zexit
+ls
+sbt
+run
+compile
+run
+last
+set scalaJSStage in Global := FastOptStage
+run
+last
+fastOptJS
+run
+reload
+fastoptjs
+fastOptJS
+compile
+last
+compile
+reload
+compile
+reload
