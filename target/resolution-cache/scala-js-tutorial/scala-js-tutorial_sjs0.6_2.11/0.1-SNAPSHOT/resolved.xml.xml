@@ -4,7 +4,7 @@
 		module="scala-js-tutorial_sjs0.6_2.11"
 		revision="0.1-SNAPSHOT"
 		status="integration"
-		publication="20151026225854"
+		publication="20151026230909"
 	>
 		<description>
 		Scala.js Tutorial
@@ -39,6 +39,6 @@
 		<dependency org="org.eclipse.jetty" name="jetty-server" rev="8.1.16.v20140903" conf="phantom-js-jetty->default(compile)"/>
 		<dependency org="org.scala-js" name="scalajs-compiler_2.11.5" rev="0.6.5" conf="plugin->default(compile)"/>
 		<dependency org="org.scala-js" name="scalajs-library_2.11" rev="0.6.5" conf="compile->default(compile)"/>
-		<dependency org="org.scala.js" name="scalajs-dom_sjs0.6_2.11" rev="0.8.0" conf="compile->default(compile)"/>
+		<dependency org="org.scala-js" name="scalajs-dom_sjs0.6_2.11" rev="0.8.0" conf="compile->default(compile)"/>
 	</dependencies>
 </ivy-module>

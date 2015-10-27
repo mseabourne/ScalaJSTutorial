@@ -19,3 +19,6 @@ compile
 reload
 compile
 reload
+run
+compile
+fastOptJS
